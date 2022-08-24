@@ -4,41 +4,41 @@
             <element>item</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-08-24 15:33:34</sys_created_on>
-            <sys_id>3147ad4987a591107fae99383cbb35a8</sys_id>
+            <sys_created_on>2022-08-24 16:45:29</sys_created_on>
+            <sys_id>9bb7bd4987e591107fae99383cbb35bb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_871204_wish_list_item" sys_domain="global" view="Default view">7947e10987a591107fae99383cbb35c6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-08-24 15:33:34</sys_updated_on>
+            <sys_updated_on>2022-08-24 16:45:29</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>display_name</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-24 16:45:29</sys_created_on>
+            <sys_id>13b7bd4987e591107fae99383cbb35bc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_871204_wish_list_item" sys_domain="global" view="Default view">7947e10987a591107fae99383cbb35c6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-24 16:45:29</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>requester</element>
-            <position>1</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-08-24 15:33:34</sys_created_on>
-            <sys_id>3947ad4987a591107fae99383cbb35a8</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_871204_wish_list_item" sys_domain="global" view="Default view">7947e10987a591107fae99383cbb35c6</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-08-24 15:33:34</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>quantity</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-08-24 16:00:16</sys_created_on>
-            <sys_id>4d6d298d87a591107fae99383cbb35e0</sys_id>
+            <sys_created_on>2022-08-24 16:45:29</sys_created_on>
+            <sys_id>93b7bd4987e591107fae99383cbb35bc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_871204_wish_list_item" sys_domain="global" view="Default view">7947e10987a591107fae99383cbb35c6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-08-24 16:00:16</sys_updated_on>
+            <sys_updated_on>2022-08-24 16:45:29</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -46,13 +46,13 @@
             <element>url</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-08-24 16:01:11</sys_created_on>
-            <sys_id>ae9da10187e591107fae99383cbb354e</sys_id>
+            <sys_created_on>2022-08-24 16:45:29</sys_created_on>
+            <sys_id>17b7bd4987e591107fae99383cbb35bc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_871204_wish_list_item" sys_domain="global" view="Default view">7947e10987a591107fae99383cbb35c6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-08-24 16:01:11</sys_updated_on>
+            <sys_updated_on>2022-08-24 16:45:29</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
